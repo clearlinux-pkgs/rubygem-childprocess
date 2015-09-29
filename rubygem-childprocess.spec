@@ -4,7 +4,7 @@
 #
 Name     : rubygem-childprocess
 Version  : 0.5.6
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/childprocess-0.5.6.gem
 Source0  : https://rubygems.org/downloads/childprocess-0.5.6.gem
 Summary  : No detailed summary available
