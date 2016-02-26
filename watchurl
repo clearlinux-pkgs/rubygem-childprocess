@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-02-25 23:03:08.342291
+# {'>=0.3.6', '~>0.5'}
+watchurl=https://rubygems.org/gems/childprocess/versions/(0\.[0-9]{1,2}(\.[0-9]{1,2})?)
